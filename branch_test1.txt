@@ -1,1 +1,3 @@
-function_A branch test
+
+function_B branch test
+>>>>>>> function_B
